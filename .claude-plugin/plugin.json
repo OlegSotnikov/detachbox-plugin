@@ -1,0 +1,14 @@
+{
+  "name": "detachbox",
+  "displayName": "detachbox",
+  "version": "1.0.0",
+  "description": "Drive the coding agents in your detachbox terminals from chat or by voice: see what every agent is doing, answer the one that waits, hand the next task to the one that finished, start a terminal with a task.",
+  "author": {
+    "name": "AppMaster Inc, DBA DetachBox",
+    "email": "support@detachbox.com",
+    "url": "https://detachbox.com"
+  },
+  "homepage": "https://detachbox.com/docs/assistants",
+  "license": "MIT",
+  "keywords": ["detachbox", "detachbox terminals", "detachbox agents"]
+}
